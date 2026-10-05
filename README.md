@@ -1,4 +1,4 @@
-# SIS401 Assignment 1 — Multi-Sensor IoT Monitoring System
+# SIS401 Assignment 1 - Multi-Sensor IoT Monitoring System
 
 ## What this system does
 
